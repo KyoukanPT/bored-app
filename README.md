@@ -29,5 +29,5 @@
 <hr>
 
 <h3>How to use the App?</h3>
-<p>After running the app with Node, go to <a href="http://localhost:3000/">Localhost</a>. <br> 
+<p>After running the app with Node, go to <a href="http://localhost:3000/">Localhost</a>. <br> <br>
  A random activity, with a random number of participants, will be generated. In case you want to generate a filtered activity, you can do so by selecting an activity type and/or the number of people needed, on their respective dropdowns.</p>
