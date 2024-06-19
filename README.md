@@ -14,6 +14,10 @@
 
 <hr>
 
+<h3>API Documentation</h3>
+<a href="https://bored-api.appbrewery.com/"> Bored API Documentation </a> <br>
+<hr>
+
 <h3>Project Folder Directory (Terminal)</h3>
 3 - npm install <br>
 4 - npm install <a href="https://expressjs.com/en/starter/installing.html"> Express </a> <br>
@@ -23,5 +27,11 @@
 8 - node index.js <br>
 
 <hr>
+
+<h3>Browser (After all the above steps)</h3>
+9 - <a href="http://localhost:3000/">http://localhost:3000/</a>
+
+<hr>
+
 <h3>How to use the App?</h3>
-<p>When loading the page, a random activity, with a random number of participants, will be loaded. In case you want to generate a filtered activity, you can do so by selecting an activity type and/or the number of people needed, on their respective dropdowns.</p>
+<p>When loading the page on the localhost, a random activity, with a random number of participants, will be generated. In case you want to generate a filtered activity, you can do so by selecting an activity type and/or the number of people needed, on their respective dropdowns.</p>
