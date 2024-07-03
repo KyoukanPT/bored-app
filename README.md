@@ -23,8 +23,8 @@
 3 - npm install <br>
 4 - npm install <a href="https://expressjs.com/en/starter/installing.html"> Express </a> <br>
 5 - npm install <a href="https://ejs.co/"> EJS </a> <br>
-6 - npm install <a href="https://www.npmjs.com/package/body-parser">Body Parser </a> <br>
-7 - npm install <a href="https://axios-http.com/docs/intro">Axios </a> <br>
+6 - npm install <a href="https://www.npmjs.com/package/body-parser"> Body Parser </a> <br>
+7 - npm install <a href="https://axios-http.com/docs/intro"> Axios </a> <br>
 8 - node index.js <br>
 
 <hr>
