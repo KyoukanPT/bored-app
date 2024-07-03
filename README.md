@@ -1,4 +1,4 @@
-<h2>Taco Recipes</h2>
+<h2>Bored App</h2>
 
 <p>Instructions on how to download the source files and use the App: </p>
 
